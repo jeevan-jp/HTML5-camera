@@ -3,14 +3,13 @@
 #### This is a simple camera testing tool!
 
 Feel free to clone repo and test your camera.
-Code can be extended to use video features maybe for taking snaps or video streaming.
+Code can be extended to use video features like taking snaps or video streaming etc.
 
-Courtsey: Treehouse
+Courtesy: Treehouse
+Read more at following links:  
 
-Read more on following links:  
+* http://blog.teamtreehouse.com/accessing-the-device-camera-with-getusermedia
 
-    http://blog.teamtreehouse.com/accessing-the-device-camera-with-getusermedia
-
-    https://davidwalsh.name/browser-camera
+* https://davidwalsh.name/browser-camera
 
 Thanks :-)
